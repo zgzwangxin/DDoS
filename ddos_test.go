@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	ddos "github.com/Konstantin8105/DDoS"
 	freeport "github.com/Konstantin8105/FreePort"
+	ddos "github.com/zgzwangxin/DDoS"
 )
 
 func TestNewDDoS(t *testing.T) {
